@@ -1,2 +1,2 @@
-# operating_system_lab
+# Operating_System_Lab
 HCMUT Operating System Lab
