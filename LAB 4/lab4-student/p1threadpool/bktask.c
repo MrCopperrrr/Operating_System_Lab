@@ -19,6 +19,7 @@ struct bktask_t * bktask_get_byid(unsigned int bktaskid) {
   return NULL;
 }
 
+
 int bktask_init(unsigned int * bktaskid, void * func, void * arg) {
   struct bktask_t * new_task = malloc(sizeof(struct bktask_t));
 
